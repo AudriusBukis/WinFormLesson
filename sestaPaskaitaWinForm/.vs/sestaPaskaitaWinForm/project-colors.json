@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c5a2dd5-7e2c-4c9b-94c3-bc8d349b9a3d": {
+      "ProjectGuid": "3c5a2dd5-7e2c-4c9b-94c3-bc8d349b9a3d",
+      "DisplayName": "sestaPaskaitaWinForm",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
